@@ -1,4 +1,4 @@
-# Install script for directory: /Users/CalebRam/CLionProjects/HI
+# Install script for directory: /Users/CalebRam/CLionProjects/Easter Term
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
