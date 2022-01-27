@@ -39,13 +39,13 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/CalebRam/Downloads/GitHub/Sixth$ Form/Repositries/CLionProjects/cmake-build-debug/
+cmake_ninja_workdir = /Users/CalebRam/Downloads/Programming/Sixth$ Form/Repositries/GitHub/CLionProjects/cmake-build-debug/
 
 #############################################
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/CalebRam/Downloads/GitHub/Sixth Form/Repositries/CLionProjects/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/CalebRam/Downloads/GitHub/Sixth Form/Repositries/CLionProjects" -B"/Users/CalebRam/Downloads/GitHub/Sixth Form/Repositries/CLionProjects/cmake-build-debug"
+  COMMAND = cd "/Users/CalebRam/Downloads/Programming/Sixth Form/Repositries/GitHub/CLionProjects/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S"/Users/CalebRam/Downloads/Programming/Sixth Form/Repositries/GitHub/CLionProjects" -B"/Users/CalebRam/Downloads/Programming/Sixth Form/Repositries/GitHub/CLionProjects/cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -57,7 +57,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd "/Users/CalebRam/Downloads/GitHub/Sixth Form/Repositries/CLionProjects/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd "/Users/CalebRam/Downloads/Programming/Sixth Form/Repositries/GitHub/CLionProjects/cmake-build-debug" && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -72,7 +72,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 
 build cmake_object_order_depends_target_CLionProjects: phony || CMakeFiles/CLionProjects.dir
 
-build CMakeFiles/CLionProjects.dir/Easter_Term/Hi.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/GitHub/Sixth$ Form/Repositries/CLionProjects/Easter$ Term/Hi.cpp || cmake_object_order_depends_target_CLionProjects
+build CMakeFiles/CLionProjects.dir/Easter_Term/Hi.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/Programming/Sixth$ Form/Repositries/GitHub/CLionProjects/Easter$ Term/Hi.cpp || cmake_object_order_depends_target_CLionProjects
   DEP_FILE = CMakeFiles/CLionProjects.dir/Easter_Term/Hi.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/CLionProjects.dir
@@ -80,7 +80,7 @@ build CMakeFiles/CLionProjects.dir/Easter_Term/Hi.cpp.o: CXX_COMPILER__CLionProj
   TARGET_COMPILE_PDB = CMakeFiles/CLionProjects.dir/
   TARGET_PDB = CLionProjects.pdb
 
-build CMakeFiles/CLionProjects.dir/Easter_Term/main.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/GitHub/Sixth$ Form/Repositries/CLionProjects/Easter$ Term/main.cpp || cmake_object_order_depends_target_CLionProjects
+build CMakeFiles/CLionProjects.dir/Easter_Term/main.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/Programming/Sixth$ Form/Repositries/GitHub/CLionProjects/Easter$ Term/main.cpp || cmake_object_order_depends_target_CLionProjects
   DEP_FILE = CMakeFiles/CLionProjects.dir/Easter_Term/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/CLionProjects.dir
@@ -88,7 +88,7 @@ build CMakeFiles/CLionProjects.dir/Easter_Term/main.cpp.o: CXX_COMPILER__CLionPr
   TARGET_COMPILE_PDB = CMakeFiles/CLionProjects.dir/
   TARGET_PDB = CLionProjects.pdb
 
-build CMakeFiles/CLionProjects.dir/Easter_Term/remainder.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/GitHub/Sixth$ Form/Repositries/CLionProjects/Easter$ Term/remainder.cpp || cmake_object_order_depends_target_CLionProjects
+build CMakeFiles/CLionProjects.dir/Easter_Term/remainder.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/Programming/Sixth$ Form/Repositries/GitHub/CLionProjects/Easter$ Term/remainder.cpp || cmake_object_order_depends_target_CLionProjects
   DEP_FILE = CMakeFiles/CLionProjects.dir/Easter_Term/remainder.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/CLionProjects.dir
@@ -96,7 +96,7 @@ build CMakeFiles/CLionProjects.dir/Easter_Term/remainder.cpp.o: CXX_COMPILER__CL
   TARGET_COMPILE_PDB = CMakeFiles/CLionProjects.dir/
   TARGET_PDB = CLionProjects.pdb
 
-build CMakeFiles/CLionProjects.dir/Mandelbrto/main.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/GitHub/Sixth$ Form/Repositries/CLionProjects/Mandelbrto/main.cpp || cmake_object_order_depends_target_CLionProjects
+build CMakeFiles/CLionProjects.dir/Mandelbrto/main.cpp.o: CXX_COMPILER__CLionProjects_Debug /Users/CalebRam/Downloads/Programming/Sixth$ Form/Repositries/GitHub/CLionProjects/Mandelbrto/main.cpp || cmake_object_order_depends_target_CLionProjects
   DEP_FILE = CMakeFiles/CLionProjects.dir/Mandelbrto/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -std=gnu++14
   OBJECT_DIR = CMakeFiles/CLionProjects.dir
@@ -130,7 +130,7 @@ build CLionProjects: CXX_EXECUTABLE_LINKER__CLionProjects_Debug CMakeFiles/CLion
 # =============================================================================
 
 #############################################
-# Folder: /Users/CalebRam/Downloads/GitHub/Sixth Form/Repositries/CLionProjects/cmake-build-debug
+# Folder: /Users/CalebRam/Downloads/Programming/Sixth Form/Repositries/GitHub/CLionProjects/cmake-build-debug
 
 build all: phony CLionProjects
 

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/CalebRam/Downloads/GitHub/Sixth Form/Repositries/CLionProjects
+# Install script for directory: /Users/CalebRam/Downloads/Programming/Sixth Form/Repositries/GitHub/CLionProjects
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/CalebRam/Downloads/GitHub/Sixth Form/Repositries/CLionProjects/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/CalebRam/Downloads/Programming/Sixth Form/Repositries/GitHub/CLionProjects/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
